@@ -1,0 +1,464 @@
+{
+  "id": "1642200",
+  "name": "travel-practice",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3050508",
+      "name": "定位",
+      "font_class": "location",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "1066295",
+      "name": "日历",
+      "font_class": "calendar",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "3248567",
+      "name": "旗子",
+      "font_class": "qizi",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "36785",
+      "name": "电梯",
+      "font_class": "hd-elevator",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "4766957",
+      "name": "wifi",
+      "font_class": "hd-wifi",
+      "unicode": "e7e0",
+      "unicode_decimal": 59360
+    },
+    {
+      "icon_id": "6936779",
+      "name": "行李车、拉行李",
+      "font_class": "hd-luggage",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "8102703",
+      "name": "皇冠",
+      "font_class": "hd-crown",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "8861974",
+      "name": "热水壶",
+      "font_class": "hd-kettle",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "9842006",
+      "name": "停车",
+      "font_class": "hd-parking",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "12359518",
+      "name": "吹风机",
+      "font_class": "hd-drier",
+      "unicode": "e6b6",
+      "unicode_decimal": 59062
+    },
+    {
+      "icon_id": "2571118",
+      "name": "餐具",
+      "font_class": "tableware",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "696102",
+      "name": "费用",
+      "font_class": "stragegyDetail-price",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "856962",
+      "name": "安全",
+      "font_class": "person-security",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "1117947",
+      "name": "时间",
+      "font_class": "stragegyDetail-time",
+      "unicode": "e790",
+      "unicode_decimal": 59280
+    },
+    {
+      "icon_id": "1221599",
+      "name": "环 空星",
+      "font_class": "stragegyDetail-days",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "3090321",
+      "name": "人物-头像",
+      "font_class": "stragegyDetail-people",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "12659694",
+      "name": "删除",
+      "font_class": "person-delete",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "5004350",
+      "name": "男生",
+      "font_class": "man",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "5004363",
+      "name": "女生",
+      "font_class": "woman",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "9495540",
+      "name": "我的信息",
+      "font_class": "information",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "9874537",
+      "name": "KHCFDC_头像 ",
+      "font_class": "head",
+      "unicode": "e6de",
+      "unicode_decimal": 59102
+    },
+    {
+      "icon_id": "553893",
+      "name": "家",
+      "font_class": "home",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "716015",
+      "name": "退出",
+      "font_class": "out",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "1036574",
+      "name": "设置",
+      "font_class": "setUp",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "1517312",
+      "name": "订单",
+      "font_class": "order",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "3731059",
+      "name": "收藏",
+      "font_class": "collection",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "10109002",
+      "name": "书写",
+      "font_class": "write",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "5075804",
+      "name": "巴士",
+      "font_class": "free-bus",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "6290456",
+      "name": "天天特价",
+      "font_class": "ticket-bargin",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "694704",
+      "name": "景点",
+      "font_class": "free-scenery",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "400294",
+      "name": "客服",
+      "font_class": "free-service",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "90509",
+      "name": "价格保护",
+      "font_class": "free-price",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "8314485",
+      "name": "轨迹 路线 导航",
+      "font_class": "free-route",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "13083292",
+      "name": "澳门",
+      "font_class": "free-macao",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "3776281",
+      "name": "巴黎铁塔",
+      "font_class": "free-america",
+      "unicode": "e84d",
+      "unicode_decimal": 59469
+    },
+    {
+      "icon_id": "3776306",
+      "name": "天坛",
+      "font_class": "free-china",
+      "unicode": "e852",
+      "unicode_decimal": 59474
+    },
+    {
+      "icon_id": "3794040",
+      "name": "体育-自行车",
+      "font_class": "free-riding",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "3858874",
+      "name": "埃及金字塔旅游建筑",
+      "font_class": "free-south",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "5483412",
+      "name": "椰子树",
+      "font_class": "free-island",
+      "unicode": "e6e0",
+      "unicode_decimal": 59104
+    },
+    {
+      "icon_id": "13083431",
+      "name": "日本",
+      "font_class": "free-japan",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    },
+    {
+      "icon_id": "1133609",
+      "name": "签证",
+      "font_class": "passport",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "2932822",
+      "name": "电脑",
+      "font_class": "computer",
+      "unicode": "e7fc",
+      "unicode_decimal": 59388
+    },
+    {
+      "icon_id": "3961115",
+      "name": "支付方式",
+      "font_class": "payment",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "5320451",
+      "name": "确认单",
+      "font_class": "confirm",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "7350320",
+      "name": "征服大楼，国家机关，楼房",
+      "font_class": "building",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "9097145",
+      "name": "邮件",
+      "font_class": "mail",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "867030",
+      "name": "签证",
+      "font_class": "menu-passport",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "12963277",
+      "name": "飞机",
+      "font_class": "menu-plane",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "2767928",
+      "name": "旗子",
+      "font_class": "menu-flag",
+      "unicode": "e79f",
+      "unicode_decimal": 59295
+    },
+    {
+      "icon_id": "3836539",
+      "name": "飞机",
+      "font_class": "menu-free",
+      "unicode": "e7d0",
+      "unicode_decimal": 59344
+    },
+    {
+      "icon_id": "2967254",
+      "name": "符号-电话",
+      "font_class": "ticket-phone",
+      "unicode": "e729",
+      "unicode_decimal": 59177
+    },
+    {
+      "icon_id": "10885753",
+      "name": "保",
+      "font_class": "ticket-bao",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "3858031",
+      "name": "邮轮",
+      "font_class": "menu-ship",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "3861164",
+      "name": "热气球",
+      "font_class": "menu-balloon",
+      "unicode": "e6d3",
+      "unicode_decimal": 59091
+    },
+    {
+      "icon_id": "5483427",
+      "name": "飞机",
+      "font_class": "ticket-plan",
+      "unicode": "e6e7",
+      "unicode_decimal": 59111
+    },
+    {
+      "icon_id": "7478256",
+      "name": "酒店",
+      "font_class": "menu-hotel",
+      "unicode": "e73f",
+      "unicode_decimal": 59199
+    },
+    {
+      "icon_id": "1130589",
+      "name": "酒店",
+      "font_class": "home-hotel",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "1236847",
+      "name": "火",
+      "font_class": "home-fire",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "3216156",
+      "name": "飞机",
+      "font_class": "home-plane",
+      "unicode": "e74d",
+      "unicode_decimal": 59213
+    },
+    {
+      "icon_id": "3874027",
+      "name": "回形针",
+      "font_class": "home-clip",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "4294115",
+      "name": "金币",
+      "font_class": "home-money",
+      "unicode": "e799",
+      "unicode_decimal": 59289
+    },
+    {
+      "icon_id": "8825413",
+      "name": "雷",
+      "font_class": "home-thunder",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "9526776",
+      "name": "方格排列",
+      "font_class": "home-square",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "10156131",
+      "name": "点赞",
+      "font_class": "home-support",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "11754002",
+      "name": "太阳",
+      "font_class": "home-sun",
+      "unicode": "e6e5",
+      "unicode_decimal": 59109
+    }
+  ]
+}
